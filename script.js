@@ -76,6 +76,6 @@ const round = function (pChoice) {
 
 function generateImage(choice) {
   var img = document.createElement("img");
-  img.src = `/assets/${choice}.png`;
+  img.src = `/RPS/assets/${choice}.png`;
   return img;
 }
