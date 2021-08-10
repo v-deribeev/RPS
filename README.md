@@ -2,4 +2,4 @@
 
 Rock-Paper-Scissors
 
-Version 2 !
+Version 3.0
