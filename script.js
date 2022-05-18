@@ -12,6 +12,8 @@ const resetBtnRef = document.querySelector(".reset");
 let counterUserResult = 0;
 let counterBotResult = 0;
 
+// test comment
+
 btnRock.addEventListener("click", function () {
   round("rock");
 });
